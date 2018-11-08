@@ -1,0 +1,22 @@
+{
+  "nodes": [
+    {
+      "name": "Tritanium Public Node 1 US",
+      "url": "192.243.108.225",
+      "port": 16123,
+      "ssl": false
+    },    
+    {
+      "name": "Tritanium Public Node 2 US",
+      "url": "18.212.173.42",
+      "port": 16123,
+      "ssl": false
+    },    
+    {
+      "name": "Tritanium Public Node 3 US",
+      "url": "18.205.29.105",
+      "port": 16123,
+      "ssl": false
+    }
+  ]
+}
